@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ENUM/ENUM.iml" filepath="$PROJECT_DIR$/ENUM/ENUM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GiaTriNhiPhan/GiaTriNhiPhan.iml" filepath="$PROJECT_DIR$/GiaTriNhiPhan/GiaTriNhiPhan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java exercise/Java exercise.iml" filepath="$PROJECT_DIR$/Java exercise/Java exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lop Sinh Vien 1/Lop Sinh Vien 1.iml" filepath="$PROJECT_DIR$/Lop Sinh Vien 1/Lop Sinh Vien 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lop User/Lop User.iml" filepath="$PROJECT_DIR$/Lop User/Lop User.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution/Solution.iml" filepath="$PROJECT_DIR$/Solution/Solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java exercise/Solution Week 2/Solution Week 2.iml" filepath="$PROJECT_DIR$/Java exercise/Solution Week 2/Solution Week 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tu hoc Java.iml" filepath="$PROJECT_DIR$/Tu hoc Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java exercise/Week 1/Week 1.iml" filepath="$PROJECT_DIR$/Java exercise/Week 1/Week 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java exercise/Week 2/Week 2.iml" filepath="$PROJECT_DIR$/Java exercise/Week 2/Week 2.iml" />
+    </modules>
+  </component>
+</project>
